@@ -1,0 +1,11 @@
+The user persona is a marketing major from any company, this wireframe is directed towards marketing professionals. 
+Because SEO isn't a new term for marketers or even web developers, this wireframe's goal is to be rather minimalistic and get to the point.
+
+User: James Wilkenson
+Location: United States
+Age: 35
+Gender: Male
+Bio: James is a marketing manager from Case Channel, Inc. 
+The purpose of the visit to the website: Case Channel is a company that creates phone cases and sells them on Shopify. With the active competition in the phone
+case niche, James is looking for an agency to look for defeciencies within his SEO and improve them to help his business.
+Interests: Simplicity, running, food.
